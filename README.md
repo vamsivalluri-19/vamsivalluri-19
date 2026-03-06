@@ -52,8 +52,11 @@ HTML, CSS, JavaScript, Troubleshooting, Workflow Optimization
   
 ## 📊 GitHub Analytics
 
-![Vamsi's GitHub stats](https://github-readme-stats.vercel.app/api?username=vamsivalluri-19&show_icons=true&theme=radical)
+## 📊 GitHub Analytics
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vamsivalluri-19&layout=compact&theme=radical)
+[![Vamsi's GitHub stats](https://github-readme-stats.vercel.app/api?username=vamsivalluri-19&show_icons=true&theme=radical)](https://github.com/vamsivalluri-19)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vamsivalluri-19&theme=radical)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vamsivalluri-19&layout=compact&theme=radical)](https://github.com/vamsivalluri-19)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vamsivalluri-19&theme=radical)](https://github.com/vamsivalluri-19)
+
