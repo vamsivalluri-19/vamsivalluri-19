@@ -49,3 +49,11 @@ HTML, CSS, JavaScript, Troubleshooting, Workflow Optimization
 
 - **[Online Job Portal](https://github.com/vamsivalluri-19/online-job-portal)**  
   Job portal prototype for online recruitment workflows.
+  
+## 📊 GitHub Analytics
+
+![Vamsi's GitHub stats](https://github-readme-stats.vercel.app/api?username=vamsivalluri-19&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vamsivalluri-19&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vamsivalluri-19&theme=radical)
