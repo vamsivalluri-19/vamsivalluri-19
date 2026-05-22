@@ -1,17 +1,17 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Vamsi Valluri
-
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=1100&lines=AI+Engineer+%7C+Full+Stack+Developer;MERN+Stack+Developer+%7C+Backend+Architect;AI+Engineer+%7C+Open+Source+Contributor;Java+DSA+%7C+Python+%7C+SQL;Building+Scalable+AI-Powered+Applications;Always+Learning+New+Technologies+🚀" />
+# 👨‍💻 Vamsi Valluri
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,50:06b6d4,100:7c3aed&text=Welcome%20To%20My%20GitHub&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+### AI Engineer • Full Stack Developer • MERN Stack Developer
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,50:06b6d4,100:7c3aed&text=Vamsi%20Valluri&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Open%20Source%20Contributor&descAlignY=58"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=AI+Engineer+%7C+Full+Stack+Developer;Java+DSA+%7C+Python+%7C+SQL;Backend+Development+%7C+REST+APIs;Building+Scalable+AI-Powered+Applications;Open+to+Internships+and+Full-Time+Roles+🚀" />
 
 <p align="center">
-
 <img src="https://img.shields.io/github/followers/vamsivalluri-19?style=for-the-badge&logo=github&color=06B6D4"/>
-<img src="https://img.shields.io/github/stars/vamsivalluri-19?style=for-the-badge&logo=github&color=8B5CF6"/>
 <img src="https://komarev.com/ghpvc/?username=vamsivalluri-19&style=for-the-badge&color=blueviolet"/>
-
+<img src="https://img.shields.io/badge/Open_To_Work-22c55e?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </p>
 
 </div>
@@ -20,40 +20,17 @@
 
 # 🚀 About Me
 
-<img align="right" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
 🎓 B.Tech Artificial Intelligence Student at **Parul University**
 
-💻 Passionate about:
+💡 Passionate Full Stack Developer and AI Enthusiast focused on building scalable web applications, backend systems, and AI-powered solutions.
 
-* Full Stack Development
-* Backend Systems
-* AI Applications
-* Scalable Architectures
-* System Design
+🔹 Skilled in MERN Stack Development, REST APIs, Authentication Systems, and Backend Architecture.
 
-🚀 Building modern AI-powered MERN stack applications with scalable backend systems and modern UI/UX.
+🔹 Strong problem-solving skills with hands-on experience in Java DSA, Python, SQL, and modern web technologies.
 
-📚 Strong in:
+🔹 Interested in AI Integrations, Cloud Deployment, DevOps, and scalable system design.
 
-* Java DSA
-* Python
-* SQL
-* REST APIs
-* Authentication Systems
-* Problem Solving
-
-🌱 Currently Exploring:
-
-* Cloud Deployment ☁️
-* AI Integrations 🤖
-* DevOps ⚙️
-* Microservices 🚀
-* Scalable Backend Systems
-
-⚡ Fun Fact:
-
-> I love transforming innovative ideas into scalable AI-powered applications.
+🔹 Open to internships, freelance opportunities, open-source collaborations, and full-time software engineering roles.
 
 ---
 
@@ -85,7 +62,7 @@
 
 ---
 
-# 💻 Tech Stack & Skills
+# 💻 Technical Skills
 
 <div align="center">
 
@@ -93,7 +70,7 @@
 
 <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,html,css,sql,c" />
 
-### ⚡ Core Skills
+## ⚡ Professional Skills
 
 ```yaml
 Programming Languages:
@@ -201,24 +178,6 @@ Focus Areas:
 <a href="https://leetcode.com/u/vamsi_valluri/">
 <img src="https://img.shields.io/badge/View_LeetCode_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
-
-</div>
-
----
-
-<div align="center">
-
-# ⚡ Vamsi Valluri | AI Engineer & Full Stack Developer
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f172a,50:06b6d4,100:7c3aed&text=Vamsi%20Valluri&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20•%20MERN%20Developer%20•%20Backend%20Architect&descAlignY=58"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=AI+Engineer+%7C+Full+Stack+Developer;Java+DSA+%7C+Python+%7C+SQL;MERN+Stack+Developer+%7C+Backend+Architect;Building+Scalable+AI+Applications;Open+Source+Contributor+🚀" />
-
-<p align="center">
-<img src="https://img.shields.io/github/followers/vamsivalluri-19?style=for-the-badge&logo=github&color=06B6D4"/>
-<img src="https://img.shields.io/github/stars/vamsivalluri-19?style=for-the-badge&logo=github&color=8B5CF6"/>
-<img src="https://komarev.com/ghpvc/?username=vamsivalluri-19&style=for-the-badge&color=blueviolet"/>
-</p>
 
 </div>
 
@@ -332,7 +291,7 @@ Focus Areas:
 
 ---
 
-# 🌟 Project Showcase
+# 🚀 Key Projects
 
 <div align="center">
 
@@ -370,13 +329,17 @@ Focus Areas:
 
 ---
 
-# 📸 Developer Highlights
+# 📌 Career Objective
 
-<div align="center">
-
-<img width="95%" src="https://github.com/user-attachments/assets/3207ad65-7863-4e0a-b20f-c287c3ea8943"/>
-
-</div>
+```yaml
+Seeking Opportunities In:
+  - Software Development Engineer (SDE)
+  - Full Stack Development
+  - Backend Development
+  - AI/ML Engineering
+  - MERN Stack Development
+  - Open Source Contributions
+```
 
 ---
 
@@ -471,30 +434,31 @@ F --> G[Scaling ⚡];
 
 ---
 
-# 💡 Quote Of The Day
+# 💡 Motto
 
 <div align="center">
 
-> ### "Code. Learn. Build. Scale. Repeat."
+> "Code. Build. Solve. Scale."
 
 </div>
 
 ---
 
-# 📬 Let's Collaborate
+# 📬 Contact Me
 
 <div align="center">
 
-💼 Open for:
+📧 **Email:** [vamsivalluri52@gmail.com](mailto:vamsivalluri52@gmail.com)
+💼 **LinkedIn:** [https://www.linkedin.com/in/valluri-vamsi-445bab338/](https://www.linkedin.com/in/valluri-vamsi-445bab338/)
+💻 **GitHub:** [https://github.com/vamsivalluri-19](https://github.com/vamsivalluri-19)
+🧠 **LeetCode:** [https://leetcode.com/u/vamsi_valluri/](https://leetcode.com/u/vamsi_valluri/)
 
-* Full Stack Projects
-* AI Collaborations
-* Open Source Contributions
-* Freelance Opportunities
+### 🚀 Open to:
 
-📧 Reach me at:
-
-### **[vamsivalluri52@gmail.com](mailto:vamsivalluri52@gmail.com)**
+* Software Engineering Internships
+* Full-Time Developer Roles
+* AI & Full Stack Projects
+* Open Source Collaborations
 
 </div>
 
