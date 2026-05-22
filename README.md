@@ -54,6 +54,7 @@
 > I love transforming innovative ideas into scalable AI-powered applications.
 
 ---
+<img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/3207ad65-7863-4e0a-b20f-c287c3ea8943" />
 
 # 🌐 Connect With Me
 
