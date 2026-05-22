@@ -168,7 +168,7 @@ Tools & Platforms:
 
 ---
 
-# 🧠 LeetCode & Problem Solving
+# 🏆 LeetCode & Competitive Programming
 
 <div align="center">
 
@@ -176,7 +176,11 @@ Tools & Platforms:
 
 <br><br>
 
-<img src="https://leetcode-stats-six.vercel.app/api?username=vamsi_valluri&theme=dark"/>
+<img src="https://leetcard.jacoblin.cool/vamsi_valluri?theme=dark&font=Nunito&ext=contest"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vamsivalluri-19&theme=tokyonight&utcOffset=8"/>
 
 <br><br>
 
@@ -197,6 +201,24 @@ Focus Areas:
 <a href="https://leetcode.com/u/vamsi_valluri/">
 <img src="https://img.shields.io/badge/View_LeetCode_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
+
+</div>
+
+---
+
+<div align="center">
+
+# ⚡ Vamsi Valluri | AI Engineer & Full Stack Developer
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f172a,50:06b6d4,100:7c3aed&text=Vamsi%20Valluri&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20•%20MERN%20Developer%20•%20Backend%20Architect&descAlignY=58"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=AI+Engineer+%7C+Full+Stack+Developer;Java+DSA+%7C+Python+%7C+SQL;MERN+Stack+Developer+%7C+Backend+Architect;Building+Scalable+AI+Applications;Open+Source+Contributor+🚀" />
+
+<p align="center">
+<img src="https://img.shields.io/github/followers/vamsivalluri-19?style=for-the-badge&logo=github&color=06B6D4"/>
+<img src="https://img.shields.io/github/stars/vamsivalluri-19?style=for-the-badge&logo=github&color=8B5CF6"/>
+<img src="https://komarev.com/ghpvc/?username=vamsivalluri-19&style=for-the-badge&color=blueviolet"/>
+</p>
 
 </div>
 
@@ -310,6 +332,17 @@ Focus Areas:
 
 ---
 
+# 🌟 Project Showcase
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vamsivalluri-19&theme=tokyonight" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vamsivalluri-19&theme=tokyonight" width="48%"/>
+
+</div>
+
+---
+
 # 📂 More Projects
 
 <div align="center">
@@ -332,6 +365,16 @@ Focus Areas:
 | **Satellite Crop Health**           | Python, AI, JS         | Crop monitoring & disease detection platform                      |
 | **AI Placement Portal**             | HTML, CSS, JavaScript  | Placement workflow & recruitment portal                           |
 | **Online Job Portal**               | Python, SQL, HTML, CSS | Job application and recruitment management platform               |
+
+</div>
+
+---
+
+# 📸 Developer Highlights
+
+<div align="center">
+
+<img width="95%" src="https://github.com/user-attachments/assets/3207ad65-7863-4e0a-b20f-c287c3ea8943"/>
 
 </div>
 
