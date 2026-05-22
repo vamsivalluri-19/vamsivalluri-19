@@ -310,6 +310,33 @@ Focus Areas:
 
 ---
 
+# 📂 More Projects
+
+<div align="center">
+
+| 🚀 Project                          | 💻 Tech Stack          | 🔥 Description                                                    |
+| ----------------------------------- | ---------------------- | ----------------------------------------------------------------- |
+| **Rock Paper Scissor Game**         | HTML, CSS, JavaScript  | Interactive game with modern UI                                   |
+| **Advanced Calculator**             | HTML, CSS, JavaScript  | Smart calculator with themes, memory functions & keyboard support |
+| **Tic Tac Toe**                     | HTML, CSS, JavaScript  | Responsive multiplayer tic tac toe game                           |
+| **Fake Profile Detection**          | JavaScript             | AI-based fake social profile detection system                     |
+| **NutriMind AI**                    | MERN, TypeScript, AI   | AI-powered nutrition recommendation platform                      |
+| **House Price Prediction**          | Python, ML, HTML, CSS  | Machine learning based property price prediction system           |
+| **TripMate**                        | Python, HTML, CSS, JS  | Smart travel planning & recommendation platform                   |
+| **GEN AI PMS**                      | Node.js, MERN          | AI placement management system with analytics                     |
+| **Notes App**                       | MERN Stack, MongoDB    | Secure cloud notes application                                    |
+| **Crime Detection**                 | MERN Stack, JavaScript | Crime analysis and detection system                               |
+| **Portfolio Website**               | HTML, CSS              | Personal developer portfolio website                              |
+| **Online Quiz System**              | HTML, CSS, JavaScript  | Dynamic quiz platform with score tracking                         |
+| **Heart Disease Prediction System** | AI, JavaScript         | Disease prediction using AI & analytics                           |
+| **Satellite Crop Health**           | Python, AI, JS         | Crop monitoring & disease detection platform                      |
+| **AI Placement Portal**             | HTML, CSS, JavaScript  | Placement workflow & recruitment portal                           |
+| **Online Job Portal**               | Python, SQL, HTML, CSS | Job application and recruitment management platform               |
+
+</div>
+
+---
+
 # 📊 GitHub Analytics
 
 <div align="center">
