@@ -9,9 +9,7 @@
 <p align="center">
 
 <img src="https://img.shields.io/github/followers/vamsivalluri-19?style=for-the-badge&logo=github&color=06B6D4"/>
-
 <img src="https://img.shields.io/github/stars/vamsivalluri-19?style=for-the-badge&logo=github&color=8B5CF6"/>
-
 <img src="https://komarev.com/ghpvc/?username=vamsivalluri-19&style=for-the-badge&color=blueviolet"/>
 
 </p>
@@ -27,34 +25,37 @@
 🎓 B.Tech Artificial Intelligence Student at **Parul University**
 
 💻 Passionate about:
-- Full Stack Development
-- Backend Systems
-- AI Applications
-- Scalable Architectures
-- System Design
+
+* Full Stack Development
+* Backend Systems
+* AI Applications
+* Scalable Architectures
+* System Design
 
 🚀 Building modern AI-powered MERN stack applications with scalable backend systems and modern UI/UX.
 
 📚 Strong in:
-- Java DSA
-- Python
-- SQL
-- REST APIs
-- Authentication Systems
-- Problem Solving
+
+* Java DSA
+* Python
+* SQL
+* REST APIs
+* Authentication Systems
+* Problem Solving
 
 🌱 Currently Exploring:
-- Cloud Deployment ☁️
-- AI Integrations 🤖
-- DevOps ⚙️
-- Microservices 🚀
-- Scalable Backend Systems
+
+* Cloud Deployment ☁️
+* AI Integrations 🤖
+* DevOps ⚙️
+* Microservices 🚀
+* Scalable Backend Systems
 
 ⚡ Fun Fact:
+
 > I love transforming innovative ideas into scalable AI-powered applications.
 
 ---
-<img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/3207ad65-7863-4e0a-b20f-c287c3ea8943" />
 
 # 🌐 Connect With Me
 
@@ -82,31 +83,120 @@
 
 </div>
 
-# 💻 Tech Stack
+---
+
+# 💻 Tech Stack & Skills
 
 <div align="center">
 
-## 🚀 Languages
+## 🚀 Programming Languages
 
 <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,html,css,sql,c" />
+
+### ⚡ Core Skills
+
+```yaml
+Programming Languages:
+  - Java
+  - Python
+  - JavaScript
+  - TypeScript
+  - SQL
+  - C
+
+Frontend Development:
+  - React.js
+  - Next.js
+  - HTML5
+  - CSS3
+  - Tailwind CSS
+  - Bootstrap
+
+Backend Development:
+  - Node.js
+  - Express.js
+  - Django
+  - Flask
+  - FastAPI
+  - REST APIs
+  - Authentication & Authorization
+
+Databases:
+  - MongoDB
+  - MySQL
+  - PostgreSQL
+
+AI & Data Science:
+  - NumPy
+  - Pandas
+  - OpenCV
+  - AI Fundamentals
+  - Prompt Engineering
+  - Machine Learning Basics
+
+DevOps & Cloud:
+  - Docker
+  - Kubernetes
+  - AWS Basics
+  - Redis
+  - Render
+  - Vercel
+
+Tools & Platforms:
+  - Git
+  - GitHub
+  - VS Code
+  - Postman
+  - Firebase
+  - PowerShell
+  - Figma
+```
 
 ---
 
 ## ⚙️ Frameworks & Libraries
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,nextjs,django,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,nextjs,django,tailwind,bootstrap,flask,fastapi" />
 
 ---
 
 ## 🛠 Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,render,vercel,firebase,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,render,vercel,firebase,figma,docker,kubernetes,aws,redis" />
+
+</div>
 
 ---
 
-## ☁️ Currently Learning
+# 🧠 LeetCode & Problem Solving
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,redis" />
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/vamsi_valluri?theme=dark&font=Nunito&ext=heatmap"/>
+
+<br><br>
+
+<img src="https://leetcode-stats-six.vercel.app/api?username=vamsi_valluri&theme=dark"/>
+
+<br><br>
+
+### 🚀 DSA & Competitive Programming
+
+```yaml
+Focus Areas:
+  - Data Structures & Algorithms
+  - Dynamic Programming
+  - Graph Algorithms
+  - Trees & Binary Trees
+  - Sliding Window
+  - Recursion & Backtracking
+  - SQL Problem Solving
+  - System Design Basics
+```
+
+<a href="https://leetcode.com/u/vamsi_valluri/">
+<img src="https://img.shields.io/badge/View_LeetCode_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
 </div>
 
@@ -122,18 +212,19 @@
 
 ## 🤖 GenAI Placement Management System
 
-🔹 AI-powered placement platform  
-🔹 Resume Analysis & Analytics  
-🔹 OTP/OAuth Authentication  
-🔹 Real-time placement workflows  
-🔹 Modern MERN architecture  
+🔹 AI-powered placement platform
+🔹 Resume Analysis & Analytics
+🔹 OTP/OAuth Authentication
+🔹 Real-time placement workflows
+🔹 Modern MERN architecture
 
 ### ⚡ Features
-- Student & Recruiter Dashboards
-- ATS Resume Analysis
-- AI Chatbot Assistance
-- Placement Analytics
-- Secure Authentication
+
+* Student & Recruiter Dashboards
+* ATS Resume Analysis
+* AI Chatbot Assistance
+* Placement Analytics
+* Secure Authentication
 
 <a href="https://github.com/vamsivalluri-19/gen-ai-placement-management-system">
 <img src="https://img.shields.io/badge/View_Project-0ea5e9?style=for-the-badge"/>
@@ -145,18 +236,19 @@
 
 ## 🌾 Satellite Crop Health Monitoring
 
-🔹 AI-powered farming platform  
-🔹 Satellite crop analysis  
-🔹 Disease prediction system  
-🔹 Weather forecasting insights  
-🔹 Smart crop recommendations  
+🔹 AI-powered farming platform
+🔹 Satellite crop analysis
+🔹 Disease prediction system
+🔹 Weather forecasting insights
+🔹 Smart crop recommendations
 
 ### ⚡ Features
-- Soil Monitoring
-- AI Disease Detection
-- Smart Recommendations
-- Satellite Mapping
-- Farmer Dashboard
+
+* Soil Monitoring
+* AI Disease Detection
+* Smart Recommendations
+* Satellite Mapping
+* Farmer Dashboard
 
 <a href="https://github.com/vamsivalluri-19/Satellite-Crop-Health">
 <img src="https://img.shields.io/badge/View_Project-8b5cf6?style=for-the-badge"/>
@@ -170,17 +262,18 @@
 
 ## ✂️ SmartCrop AI Platform
 
-🔹 AI image/video cropping  
-🔹 Automated workflows  
-🔹 Responsive dashboard  
-🔹 Optimized performance UI  
+🔹 AI image/video cropping
+🔹 Automated workflows
+🔹 Responsive dashboard
+🔹 Optimized performance UI
 
 ### ⚡ Features
-- AI Smart Detection
-- Auto Cropping
-- Video Processing
-- Cloud Media Storage
-- Responsive UI
+
+* AI Smart Detection
+* Auto Cropping
+* Video Processing
+* Cloud Media Storage
+* Responsive UI
 
 <a href="https://github.com/vamsivalluri-19/SmartCrop">
 <img src="https://img.shields.io/badge/View_Project-06b6d4?style=for-the-badge"/>
@@ -192,17 +285,18 @@
 
 ## 🎓 Online Skill Platform
 
-🔹 Skill learning ecosystem  
-🔹 Authentication & dashboards  
-🔹 Scalable backend architecture  
-🔹 Modern responsive UI  
+🔹 Skill learning ecosystem
+🔹 Authentication & dashboards
+🔹 Scalable backend architecture
+🔹 Modern responsive UI
 
 ### ⚡ Features
-- Video Learning
-- Course Management
-- User Authentication
-- Student Dashboards
-- Admin Controls
+
+* Video Learning
+* Course Management
+* User Authentication
+* Student Dashboards
+* Admin Controls
 
 <a href="https://github.com/vamsivalluri-19/online-skill-platform">
 <img src="https://img.shields.io/badge/View_Project-f43f5e?style=for-the-badge"/>
@@ -252,27 +346,17 @@
 
 ---
 
-# ⚡ GitHub Metrics
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vamsivalluri-19&theme=tokyonight"/>
-
-</div>
-
----
-
 # 📚 Certifications
 
 <div align="center">
 
-| Certification | Platform |
-|---|---|
-| 🏅 Full Stack Web Development Bootcamp | Udemy |
-| 🏅 Machine Learning Using Python | Simplilearn |
-| 🏅 SQL Database Certification | Udemy |
-| 🏅 Backend Development | Coursera |
-| 🏅 AI & Deep Learning Fundamentals | Great Learning |
+| Certification                          | Platform       |
+| -------------------------------------- | -------------- |
+| 🏅 Full Stack Web Development Bootcamp | Udemy          |
+| 🏅 Machine Learning Using Python       | Simplilearn    |
+| 🏅 SQL Database Certification          | Udemy          |
+| 🏅 Backend Development                 | Coursera       |
+| 🏅 AI & Deep Learning Fundamentals     | Great Learning |
 
 </div>
 
@@ -290,28 +374,6 @@ focus:
   - Scalable Systems
   - DevOps & Deployment
 ```
-
----
-
-# ⚡ Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/u/vamsi_valluri/">
-<img src="https://leetcard.jacoblin.cool/vamsi_valluri?theme=dark&font=Nunito&ext=heatmap"/>
-</a>
-
-<br><br>
-
-<a href="https://leetcode.com/u/vamsi_valluri/">
-<img src="https://img.shields.io/badge/LeetCode_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://www.hackerrank.com/profile/valluri1912">
-<img src="https://img.shields.io/badge/HackerRank_Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-</div>
 
 ---
 
@@ -349,34 +411,20 @@ F --> G[Scaling ⚡];
 
 ---
 
-# ☕ Support Me
-
-<div align="center">
-
-<a href="https://github.com/sponsors">
-<img src="https://img.shields.io/badge/Sponsor-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://buymeacoffee.com/">
-<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
-</a>
-
-</div>
-
----
-
 # 📬 Let's Collaborate
 
 <div align="center">
 
 💼 Open for:
-- Full Stack Projects
-- AI Collaborations
-- Open Source Contributions
-- Freelance Opportunities
+
+* Full Stack Projects
+* AI Collaborations
+* Open Source Contributions
+* Freelance Opportunities
 
 📧 Reach me at:
-### **vamsivalluri52@gmail.com**
+
+### **[vamsivalluri52@gmail.com](mailto:vamsivalluri52@gmail.com)**
 
 </div>
 
