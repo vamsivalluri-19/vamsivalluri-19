@@ -4,6 +4,13 @@
 
 <br/>
 
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100"/>
+
+<br/>
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=900&color=06B6D4&center=true&vCenter=true&width=900&height=60&lines=%F0%9F%A4%96+AI+Engineer;%F0%9F%92%BB+Full+Stack+Developer;%E2%9A%A1+MERN+Stack+Developer;%F0%9F%9A%80+Building+Scalable+AI+Applications;%F0%9F%8C%90+Open+Source+Contributor;%F0%9F%93%A9+Open+to+Internships+%26+Full-Time+Roles"/>
 
 <br/><br/>
@@ -31,7 +38,7 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 
-## 🚀 About Me
+<img src="https://capsule-render.vercel.app/api?type=soft&height=90&color=0:0f172a,50:06b6d4,100:7c3aed&text=About%20Me&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=60&desc=🚀&descAlignY=30"/>
 
 ```yaml
 name: Vamsi Valluri
@@ -61,7 +68,7 @@ status: 🟢 Open to Internships and Full-Time Roles
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 
-## 💻 Tech Stack
+<img src="https://capsule-render.vercel.app/api?type=soft&height=90&color=0:7c3aed,50:06b6d4,100:0f172a&text=Tech%20Stack&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=60&desc=💻&descAlignY=30"/>
 
 <div align="center">
 
@@ -89,7 +96,7 @@ status: 🟢 Open to Internships and Full-Time Roles
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 
-## 🏆 Competitive Programming
+<img src="https://capsule-render.vercel.app/api?type=soft&height=90&color=0:0f172a,50:7c3aed,100:06b6d4&text=Competitive%20Programming&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=60&desc=🏆&descAlignY=30"/>
 
 <table align="center">
 <tr>
@@ -114,7 +121,7 @@ status: 🟢 Open to Internships and Full-Time Roles
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 
-## 🚀 Featured Projects
+<img src="https://capsule-render.vercel.app/api?type=soft&height=90&color=0:06b6d4,50:0f172a,100:7c3aed&text=Featured%20Projects&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=60&desc=🚀&descAlignY=30"/>
 
 <div align="center">
 
@@ -158,7 +165,7 @@ status: 🟢 Open to Internships and Full-Time Roles
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 
-## 📊 GitHub Analytics
+<img src="https://capsule-render.vercel.app/api?type=soft&height=90&color=0:7c3aed,50:0f172a,100:06b6d4&text=GitHub%20Analytics&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=60&desc=📊&descAlignY=30"/>
 
 <div align="center">
 
@@ -179,9 +186,18 @@ status: 🟢 Open to Internships and Full-Time Roles
 <img src="https://raw.githubusercontent.com/vamsivalluri-19/vamsivalluri-19/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
+<br/>
+
+> 🧊 **3D Contribution Skyline** — add the `yoshi389111/github-profile-3d-contrib` GitHub Action to your profile repo to auto-generate an isometric 3D bar-chart of your commit history (rotates through several viewing angles). Once set up it publishes to `profile-3d-contrib/profile-night-rainbow.svg` in your repo — reference it below.
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/vamsivalluri-19/vamsivalluri-19/output/github-contribution-grid-snake.svg#gh-light-mode-only" width="100%"/>
+<img src="https://github.com/vamsivalluri-19/vamsivalluri-19/blob/output/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
+</div>
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 
-## 🏅 Certifications
+<img src="https://capsule-render.vercel.app/api?type=soft&height=90&color=0:0f172a,50:06b6d4,100:7c3aed&text=Certifications&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=60&desc=🏅&descAlignY=30"/>
 
 | Certification | Provider |
 |---|---|
@@ -193,7 +209,7 @@ status: 🟢 Open to Internships and Full-Time Roles
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 
-## 🎯 Career Objective
+<img src="https://capsule-render.vercel.app/api?type=soft&height=90&color=0:06b6d4,50:7c3aed,100:0f172a&text=Career%20Objective&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=60&desc=🎯&descAlignY=30"/>
 
 <div align="center">
 
@@ -203,7 +219,7 @@ status: 🟢 Open to Internships and Full-Time Roles
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 
-## 📬 Connect With Me
+<img src="https://capsule-render.vercel.app/api?type=soft&height=90&color=0:7c3aed,50:06b6d4,100:0f172a&text=Connect%20With%20Me&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=60&desc=📬&descAlignY=30"/>
 
 <div align="center">
 
