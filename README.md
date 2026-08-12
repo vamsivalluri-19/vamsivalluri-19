@@ -5,6 +5,7 @@
 <br/>
 
 
+
 <br/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100"/>
@@ -48,7 +49,7 @@ focus: Scalable web apps, backend systems, AI-powered products
 status: 🟢 Open to Internships and Full-Time Roles
 ```
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/gist/vamsivalluri-19/dummy/raw/coding.gif" onerror="this.style.display='none'"/>
+<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif"/>
 
 - 🎓 B.Tech in **Artificial Intelligence** at **Parul University**
 - 💡 Passionate about developing scalable web applications, backend systems, and AI-powered products
@@ -126,14 +127,11 @@ status: 🟢 Open to Internships and Full-Time Roles
 <div align="center">
 
 <a href="https://github.com/vamsivalluri-19/gen-ai-placement-management-system">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vamsivalluri-19&repo=gen-ai-placement-management-system&theme=tokyonight&hide_border=true"/>
 </a>
 <a href="https://github.com/vamsivalluri-19/Satellite-Crop-Health">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vamsivalluri-19&repo=Satellite-Crop-Health&theme=tokyonight&hide_border=true"/>
 </a>
 <br/>
 <a href="https://github.com/vamsivalluri-19/SmartCrop">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vamsivalluri-19&repo=SmartCrop&theme=tokyonight&hide_border=true"/>
 </a>
 
 </div>
@@ -163,37 +161,15 @@ status: 🟢 Open to Internships and Full-Time Roles
 
 🔗 [View Repository](https://github.com/vamsivalluri-19/SmartCrop)
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=90&color=0:7c3aed,50:0f172a,100:06b6d4&text=GitHub%20Analytics&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=60&desc=📊&descAlignY=30"/>
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=vamsivalluri-19&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vamsivalluri-19&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vamsivalluri-19&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vamsivalluri-19&theme=tokyo-night&hide_border=true"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=vamsivalluri-19&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </div>
 
-> 🐍 To activate the animated contribution snake below, add the `github-actions/contribution-snake` workflow to your profile repo — it renders your commit history as a moving snake.
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/vamsivalluri-19/vamsivalluri-19/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</div>
 
 <br/>
-
-> 🧊 **3D Contribution Skyline** — add the `yoshi389111/github-profile-3d-contrib` GitHub Action to your profile repo to auto-generate an isometric 3D bar-chart of your commit history (rotates through several viewing angles). Once set up it publishes to `profile-3d-contrib/profile-night-rainbow.svg` in your repo — reference it below.
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/vamsivalluri-19/vamsivalluri-19/output/github-contribution-grid-snake.svg#gh-light-mode-only" width="100%"/>
-<img src="https://github.com/vamsivalluri-19/vamsivalluri-19/blob/output/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
-</div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 
